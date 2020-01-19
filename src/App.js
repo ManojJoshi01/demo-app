@@ -13,8 +13,8 @@ export default function App() {
         <option>Pune</option>
         <option>Mumbai</option>
         <option>Banglore</option>
-        <option>Pune</option>
-        <option>Pune</option>
+        <option>Banglore</option>
+        <option>Kolkata</option>
       </select>
     </div>
   );
